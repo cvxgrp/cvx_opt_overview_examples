@@ -23,7 +23,7 @@ make activate
 
 ## Jupyter
 
-We install [JupyterLab](https://jupyter.org) on fly within the aforementioned
+We install [JupyterLab](https://jupyter.org) on the fly within the aforementioned
 virtual environment. Executing
 
 ```bash
