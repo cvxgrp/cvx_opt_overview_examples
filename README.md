@@ -29,6 +29,8 @@ virtual environment. Executing
 ```bash
 make jupyter
 ```
+will install and start the jupyter lab.
+
 
 <!-- ## Marimo
 
