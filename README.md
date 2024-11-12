@@ -2,7 +2,7 @@
 
 
 
-This code repository accompanies the [Convex Optimization](https://stanford.edu/~boyd/papers/cvx_opt_overview.html) slides.
+This code repository accompanies the [Convex Optimization Overview](https://stanford.edu/~boyd/papers/cvx_opt_overview.html) slides.
 
 ## Poetry
 
